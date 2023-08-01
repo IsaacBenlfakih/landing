@@ -1,0 +1,13 @@
+a{
+  text-decoration: none;
+}
+.btn-primary{
+  display: inline-block;
+  background-color: rgb(84, 204, 84);
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+}
+.btn-primary:hover{
+  background-color: rgb(71, 174, 71);
+}
